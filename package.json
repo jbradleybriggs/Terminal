@@ -1,0 +1,17 @@
+{
+  "name": "@drama_llama/terminal",
+  "version": "1.0.0",
+  "description": "Gnome Terminal",
+  "main": "Terminal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Gnome",
+    "Terminal",
+    "Linux",
+    "Console"
+  ],
+  "author": "J. Bradley Briggs",
+  "license": "ISC"
+}
